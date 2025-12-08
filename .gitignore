@@ -6,6 +6,8 @@ __pycache__/
 # Folders
 inputs/*
 solutions/*
+# Problem texts and puzzle inputs
+*.txt
 
 # C extensions
 *.so

@@ -9,6 +9,9 @@ solutions/*
 # Problem texts and puzzle inputs
 *.txt
 
+# Specific files
+Z3_meme.jpeg
+
 # C extensions
 *.so
 
